@@ -9,15 +9,31 @@ This notebook aims to provide an overview of the COVID-19 pandemic in **Greece</
 This notebook is by no means a complete analysis. Its goal is to paint the general picture of COVID-19 in Greece through various visualisations. 
 It is written so that it can be reused for any other country, provided that the country's name exists in all four datasets.
 
+I have summarised the visualisations in a PowerPoint presentation, which you can find here.
+
+<br>
+
 ## How to View
 
-Since the notebook is rendered as static HTML files in the repository, its interactive features (Plotly plots) will not be displayed. 
-To view the notebook with interactive content you can use nbviewer, [Kaggle](https://www.kaggle.com/korfanakis/covid-19-pandemic-in-greece-an-overview) or run it locally.
+Since the notebook is rendered as a static HTML file in the repository, its interactive features (Plotly plots) will not be displayed. 
+To view the notebook with interactive content you can use [nbviewer](https://nbviewer.jupyter.org/github/KOrfanakis/COVID-19_in_Greece/blob/main/COVID-19_Pandemic_in_Greece.ipynb), [Kaggle](https://www.kaggle.com/korfanakis/covid-19-pandemic-in-greece-an-overview) or run it locally.
 
 **Note**: Interactive maps could not be displayed with the nbviewer. Consequently, maps will be displayed as static images using the `svg` renderer. 
 To access the interactive version, please visit the notebook on [Kaggle](https://www.kaggle.com/korfanakis/covid-19-pandemic-in-greece-an-overview) or run the notebook locally after removing the `svg` rendered from the `fig.show()` command.
 
+<br>
+
 ## Data
+
+Our analysis requires four datasets. 
+
+- **Summary and Daily Data on COVID-19**: These two datasets were scraped from [woldometers.info](https://www.worldometers.info/coronavirus/) by [Joseph Assaker](https://www.kaggle.com/josephassaker), who maintains them on [Kaggle](https://www.kaggle.com/josephassaker/covid19-global-dataset).
+
+- **Vaccination Dataset**: Data were collected from [Our World in Data](https://ourworldindata.org/) GitHub [repository](https://github.com/owid/covid-19-data) for COVID-19, merged and uploaded on [Kaggle](https://www.kaggle.com/gpreda/covid-world-vaccination-progress) by [Gabriel Preda](https://www.kaggle.com/gpreda).
+
+- **Government Response Tracker Dataset**: Data from the Oxford Coronavirus Government Response Tracker (OxCGRT) on [Github](https://github.com/OxCGRT/covid-policy-tracker), published and managed by researchers at the Blavatnik School of Government at the University of Oxford.
+
+<br>
 
 ## Resources Used
 
