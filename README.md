@@ -1,5 +1,38 @@
 # COVID-19 Pandemic in Greece: Cases, Deaths, and Vaccination Progress
 
+<p align="center">
+    <a href="https://nbviewer.jupyter.org/github/KOrfanakis/COVID-19_in_Greece/blob/main/COVID-19_Pandemic_in_Greece.ipynb">
+        <img alt="Render With" src="https://img.shields.io/badge/Render%20with-nbviewer-c0220d.svg">
+    </a>
+    <a href="https://www.python.org/">
+        <img alt="Made with" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
+    </a>
+    <a href="https://jupyter.org/try">
+        <img alt="Made with and" src="https://img.shields.io/badge/And%20-Jupyter-orange.svg">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img alt="Licence" src="https://img.shields.io/badge/License-MIT-0298c3.svg">
+    </a>
+    <a>
+        <img alt="Star if useful" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=0aa619">
+    </a>
+    <br/>
+</p>
+
+**Table of Contents**:
+
+<!--ts-->
+
+- [Motivation](#motivation)
+- [How to View](#how-to-view)
+- [Data](#data)
+- [Resources Used](#resources-used)
+- [Feedback](#feedback)
+
+<!--te-->
+
+<br>
+
 ## Motivation
 
 This notebook aims to provide an overview of the COVID-19 pandemic in **Greece</b>**. Specifically, it explores:
@@ -39,6 +72,20 @@ Our analysis requires five datasets.
 
 ## Resources Used
 
-Python Version: 3.7 <br>
-Jupyter Notebook Version: 5.7.8 <br>
-Packages: pandas, plotly, matplotlib, pywaffle, and numpy
+Python Version: 3.10.2 <br>
+Jupyter Notebook Version: 6.4.8 <br>
+Packages: Pandas (1.4.1), Plotly (5.6.0), Matplotlib (3.5.1), PyWaffle (0.6.4), and NumPy (1.22.2)
+
+<br>
+
+## Feedback
+
+If you have any feedback or ideas to improve this project, feel free to contact me via:
+
+<a href="https://twitter.com/korfanakis">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://uk.linkedin.com/in/korfanakis">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
