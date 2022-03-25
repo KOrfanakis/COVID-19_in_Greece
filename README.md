@@ -42,7 +42,7 @@ This notebook aims to provide an overview of the COVID-19 pandemic in **Greece</
 The notebook is by no means a complete analysis. Its goal is to paint the general picture of COVID-19 in Greece through various visualisations. 
 It is written so that it can be reused for any other country, provided that the country's name exists in all four datasets.
 
-I have summarised the visualisations in a PowerPoint presentation, which you can find in this [repository](https://github.com/KOrfanakis/COVID-19_in_Greece/blob/main/Summary.pptx).
+I have summarised the visualisations in a PowerPoint presentation, which you can find in this [repository](https://github.com/KOrfanakis/COVID-19_in_Greece/blob/main/Summary.pptx). The current analysis covers the progression of the pandemic **up to the 30th of June 2021**.
 
 <br>
 
