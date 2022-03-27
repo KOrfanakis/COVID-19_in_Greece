@@ -1,6 +1,5 @@
 matplotlib==3.5.1
 plotly==5.6.0
-json==2.0.9
 pandas==1.4.1
 watermark==2.3.0
 numpy==1.22.2
